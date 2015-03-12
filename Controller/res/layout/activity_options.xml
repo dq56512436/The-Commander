@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/pause"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Pause/Play" />
+
+    <Button
+        android:id="@+id/volumedown"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pause"
+        android:layout_toLeftOf="@+id/next"
+        android:text="Volume Down" />
+
+    <Button
+        android:id="@+id/volumeup"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/pause"
+        android:layout_toLeftOf="@+id/next"
+        android:text="Volume Up" />
+
+    <Button
+        android:id="@+id/mute"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/volumedown"
+        android:layout_centerHorizontal="true"
+        android:text="Mute" />
+
+    <Button
+        android:id="@+id/previous"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/volumeup"
+        android:layout_toLeftOf="@+id/pause"
+        android:text="Previous" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/volumeup"
+        android:layout_toRightOf="@+id/pause"
+        android:text="Next" />
+
+</RelativeLayout>

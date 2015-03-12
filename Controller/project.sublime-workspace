@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"de",
+				"deQueue"
+			],
+			[
+				"en",
+				"enQueue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/CodingArea/Workspace/Web/first.htm",
+		"/E/CodingArea/Workspace/Android/BookingMaster/AndroidManifest.xml",
+		"/E/Studies/Package/Sem 4/Networks/Controller/src/com/example/controller/MainActivity.java",
+		"/E/Workspace/tamil/Disp.java",
+		"/E/Workspace/tamil/KeyEventDemo.java",
+		"/E/CodingArea/Workspace/Android/MyMenu/src/com/mycompany/mymenu/MainActivity.java",
+		"/E/Studies/Package/Sem 2/Chess_pack/main.cpp",
+		"/E/Workspace/tamil/networks/Disp.java",
+		"/E/Workspace/tamil/networks/Desp.java",
+		"/E/Workspace/tamil/networks/Start.java",
+		"/C/Users/HULK-PC/Desktop/test.cpp",
+		"/C/Windows/system32/http",
+		"/E/Workspace/tamil/networks/package-info.java",
+		"/E/Studies/Package/Sem 4/Unix/Main/myShell.sh",
+		"/E/Games/FIFA 12 PC full game ^^nosTEAM^^/visit-nosteam.ro.html",
+		"/E/Games/FIFA 12 PC full game ^^nosTEAM^^/FIFA 12 full game nosTEAM/visit-nosteam.ro.html",
+		"/C/Users/HULK-PC/AppData/Roaming/IDM/http",
+		"/C/Users/HULK-PC/Desktop/HammingCode.java",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/HULK-PC/Desktop/Special features of Linux memory management mechanism.htm",
+		"/C/Program Files (x86)/Reliance Netconnect+/usermanual/en-us/usermanual/utps_content_concept_00001.html",
+		"/D/matchTemplate/src/matchtempl/Kla.java",
+		"/C/Users/HULK-PC/AppData/Local/Temp/Rar$DI45.192/db.kb",
+		"/C/Users/HULK-PC/AppData/Local/Temp/Rar$DI71.192/ReportGenerator.sh",
+		"/C/Users/HULK-PC/Desktop/SearchIn/src/com/searchin/searchin/SecondActivity.java",
+		"/A/ADT/Lynda.com - Android App Development with Java Essential Training/Exercise Files/Ex_Files_AndroidApp_Java/Exercise Files/Ch3/List_Controls/res/values/strings.xml",
+		"/A/ADT/Lynda.com - Android App Development with Java Essential Training/Exercise Files/Ex_Files_AndroidApp_Java/Exercise Files/Ch3/List_Controls/res/values/countries.xml",
+		"/A/ADT/Lynda.com - Android App Development with Java Essential Training/Exercise Files/Ex_Files_AndroidApp_Java/Exercise Files/Ch3/List_Controls/src/com/leebrimelow/lists/Main.java",
+		"/C/Users/HULK-PC/AppData/Roaming/IDM/DwnlData/HULK-PC/r19---sn-h557snee_googlevideo_com_149/http",
+		"/A/ADT/Samples/NavigationDrawer/src/com/example/android/navigationdrawerexample/MainActivity.java",
+		"/C/Users/HULK-PC/AppData/Local/Temp/Rar$DI36.232/MainActivity.java",
+		"/A/ADT/Samples/NavigationDrawer/res/menu/main.xml",
+		"/A/ADT/Samples/newsreader/src/com/example/android/newsreader/ArticleActivity.java",
+		"/A/ADT/Samples/newsreader/AndroidManifest.xml",
+		"/A/ADT/Samples/newsreader/src/com/example/android/newsreader/NewsReaderActivity.java",
+		"/E/Workspace/C++/HelloWorld.cpp",
+		"/E/Workspace/addons/first-addon/lib/main.js",
+		"/E/Workspace/Web/first.htm",
+		"/C/Users/HULK-PC/Downloads/How to get a list of installed android applications and pick one to run - Stack Overflow.htm",
+		"/C/Users/HULK-PC/Downloads/GingerIceJelly_v1.3.RC1.htm",
+		"/C/Users/HULK-PC/Desktop/p.css",
+		"/C/Users/HULK-PC/Desktop/test.html",
+		"/E/Workspace/C++/AVLTree.cpp",
+		"/E/Workspace/addons/first-addon/lib/AVLTree.cpp",
+		"/E/Workspace/addons/first-addon/test/test-main.js",
+		"/C/Users/HULK-PC/Desktop/graphTraversals.cpp",
+		"/E/Studies/Frequntly Used/bfs.cpp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"return"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

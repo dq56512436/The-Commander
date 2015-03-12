@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Controller</string>
+    <string name="action_options">Options</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="media_activity">Media</string>
+    <string name="controller_activity">Controller</string>
+    <string name="connection_activity">Connections</string>
+
+</resources>
